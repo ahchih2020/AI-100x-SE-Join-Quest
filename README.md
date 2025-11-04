@@ -4,10 +4,10 @@
 
 ### 本組織將專注於以下目標
 1. 本組織相信 AI x SDD/BDD 的方法，一定能讓 AI 在背景就產出 80%~90% 可靠且正確的程式，而這一定是未來 Vibe Coding 的趨勢，你一定是想要追求最前沿的軟工技術才加入本組織。
-2. 組織規劃好了初步研究藍圖，分為底下三大路線
-&nbsp;&nbsp;&nbsp;a. 開發流程全自動化（後端）— Feature file (BDD) 到 API Spec/ERD 到程式
-&nbsp;&nbsp;&nbsp;b. 開發流程全自動化（前端）— 線框 到 User-flow (BDD) 到程式
-&nbsp;&nbsp;&nbsp;c. 回饋流程智能化 (全端) — 前後端整合自動化建立新的驗收測試
+2. 組織規劃好了初步研究藍圖，分為底下三大路線<br>
+&nbsp;&nbsp;&nbsp;a. 開發流程全自動化（後端）— Feature file (BDD) 到 API Spec/ERD 到程式<br>
+&nbsp;&nbsp;&nbsp;b. 開發流程全自動化（前端）— 線框 到 User-flow (BDD) 到程式<br>
+&nbsp;&nbsp;&nbsp;c. 回饋流程智能化 (全端) — 前後端整合自動化建立新的驗收測試<br>
 這三者只要都研究完成，那 Vibe Coding 才算是成熟，軟體工程師能與與 AI 「平行」合作帶來百倍產出，故稱「AI 百倍軟工研究組織」。
 
 ### 歡迎所有人參與
